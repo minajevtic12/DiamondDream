@@ -10,6 +10,7 @@
 }
 body{
       font-family: "Nunito", sans-serif;
+      font-weight: 300;
 }
 .navbar-toggler-icon {
     display: inline-block;
