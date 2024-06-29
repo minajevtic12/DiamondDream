@@ -45,6 +45,7 @@
 
       .row {
           margin-top: 40px;
+          
       }
 
       .card {
@@ -213,14 +214,6 @@
         z-index: 1;
     }
     
-    .btn-facebook {
-        background-color: #405D9D;
-        color: #fff;
-    }
-    .btn-twitter {
-        background-color: #42AEEC;
-        color: #fff;
-    }
     .card3 {
         overflow: hidden;
         margin-top: 100px;
