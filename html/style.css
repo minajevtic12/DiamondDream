@@ -54,12 +54,12 @@
           margin: 40px;
       }
 
-      .card img {
+      .card-img-top {
           height: 356px;
           object-fit: cover;
           transition: transform 0.3s ease;
       }
-      .card:hover img {
+      .card-img-top:hover img {
         transform: translateY(-10px);
     }
       .home {
